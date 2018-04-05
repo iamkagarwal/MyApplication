@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "796622027033",
+    "firebase_url": "https://myapplication-200017.firebaseio.com",
+    "project_id": "myapplication-200017",
+    "storage_bucket": "myapplication-200017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796622027033:android:e3173b46c2eb3ab2",
+        "android_client_info": {
+          "package_name": "com.example.kartik.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796622027033-fl4dibkfn03ra41mnlcbi7mlsi9v72s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hV8QPSdZz2j-RJDjsE5ofngpQniiuz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

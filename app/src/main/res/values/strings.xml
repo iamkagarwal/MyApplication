@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="play">Play Video</string>
+    <string name="register_text">New user? Register Here</string>
+    <string name="feedback_text">How well do you rate this applicaton?</string>
+    <string name="excellent">Excellent</string>
+    <string name="very_good">Good</string>
+    <string name="average">Average</string>
+    <string name="very_bad">Unsatisfactory</string>
+    <string name="name">Name</string>
+    <string name="submit_feedback">Submit Feedback+</string>
+    <string name="suggetion_text">Suggetions(Optional)</string>
+
+
+</resources>
